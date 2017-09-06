@@ -1,0 +1,28 @@
+
+
+
+
+
+
+body {
+    background-color: #f4fffb;
+    font-size: 35px;
+}
+
+
+
+p{
+    line-height: 70px;
+    border-bottom: 1px solid #ccc;
+    border-radius: 1.25em;
+    box-shadow: 0px 5px 5px #ccc;
+    
+
+}
+
+
+.author {
+    color: #8f9291;
+
+}
+
